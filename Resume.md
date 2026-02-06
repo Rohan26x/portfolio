@@ -1,7 +1,7 @@
 # Rohan Patel
-**Computer Science & Data Science**
-Vellore, India
-rohanp.02608@gmail.com | +91 7978546441 | linkedin.com/in/rohan26x | github.com/Rohan26x | rohan26x.in
+**Computer Science & Data Science** <br>
+Vellore, India <br>
+rohanp.o2608@gmail.com | +91 7978546441 | linkedin.com/in/rohan26x | github.com/Rohan26x | rohan26x.in
 
 ---
 
